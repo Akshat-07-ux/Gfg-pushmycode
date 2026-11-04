@@ -48,9 +48,9 @@ Return the  **minimum**  number of operations needed to have  **at least**  `k` 
 ## Solution
 
 **Language:** Python  
-**Runtime:** 0 ms  
-**Memory:** 19.7 MB  
-**Submitted:** 2026-11-04T01:50:21.032Z  
+**Runtime:** 3122 ms (beats 82.69%)  
+**Memory:** 66.1 MB (beats 7.69%)  
+**Submitted:** 2026-11-04T01:50:28.909Z  
 
 ```py
 from typing import List
