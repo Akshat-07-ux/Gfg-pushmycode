@@ -57,9 +57,9 @@ The following changes will happen at the same time:
 ## Solution
 
 **Language:** Python  
-**Runtime:** 1018 ms (beats 52.17%)  
-**Memory:** 106.1 MB (beats 64.13%)  
-**Submitted:** 2026-11-21T10:50:56.363Z  
+**Runtime:** 1092 ms (beats 45.65%)  
+**Memory:** 105.4 MB (beats 65.22%)  
+**Submitted:** 2026-11-21T10:51:06.718Z  
 
 ```py
 import sys
